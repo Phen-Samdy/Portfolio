@@ -32,7 +32,7 @@ function About() {
                     <div className='justify-center'>
                         <h1 className='font-bold text-[32px] text-[white] mt-16 mb-10'>I'm Phen Samdy and a frontend developer.</h1>
                         <p className='text-[22px] text-[white] leading-10'>I am a fresh graduate student. 
-                            I am a friendly, honest, open-minded, and hard worker. I also take responsibility 
+                            I am a friendly, open-minded, and hard worker. I also take responsibility 
                             seriously. I therefore always respond to my work. Additionally, I enjoy lending a 
                             hand to those in need. I have soft skills like  teamwork, collaboration, problem 
                             solving and communication. My technical knowledges include HTML, CSS, Boostrap, 
